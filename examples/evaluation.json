@@ -1,0 +1,8 @@
+[
+  {"id": "timeout", "question": "client request timeout", "evidence": {"document_name": "guide.md", "quote": "The client request timeout is thirty seconds."}},
+  {"id": "retry", "question": "transient failures retry", "evidence": {"document_name": "guide.md", "quote": "For transient failures, retry at most twice with the same request ID."}},
+  {"id": "credentials", "question": "credentials environment", "evidence": {"document_name": "guide.md", "quote": "Store API credentials in environment variables. Never commit populated environment files."}},
+  {"id": "retention", "question": "uploads expire", "evidence": {"document_name": "guide.md", "quote": "Temporary uploads expire after twenty-four hours."}},
+  {"id": "unknown", "question": "volcano tectonics", "evidence": null},
+  {"id": "common-word-negative", "question": "the lunar landing year", "evidence": null}
+]

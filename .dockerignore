@@ -1,0 +1,17 @@
+.git
+.github
+.env
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+.ruff_cache
+.mypy_cache
+tests
+examples
+data
+chroma
+*.sqlite
+*.sqlite3
+VERIFICATION.md
